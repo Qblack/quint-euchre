@@ -1,0 +1,14 @@
+{
+  "_output_dir": "C:\\Users\\Q\\code\\quint-euchre",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Quinton Black",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "mail@claudiojolowicz.com",
+  "friendly_name": "Quint Euchre",
+  "github_user": "Qblack",
+  "license": "MIT",
+  "package_name": "quint_euchre",
+  "project_name": "quint-euchre",
+  "version": "0.0.0"
+}
